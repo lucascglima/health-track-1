@@ -1,0 +1,53 @@
+﻿﻿html,body {
+        background: rgb(202, 218, 218);
+        margin-bottom: 200px;
+        padding: 16px;
+    }
+    
+    .btn{
+         border-radius: 24px;
+    }
+    
+    .breadcrumb {
+        background:rgba(73, 124, 81, 0.5) ;
+    }
+    
+    header {
+        border-radius: 24px;
+    }
+    
+    #telalogin {
+        border-top: 10px;
+    }
+    
+    img {
+        height: auto;
+        max-width: 100%;
+        align-content: center;
+        
+    }
+    
+    a.nav-link.active {
+        background:rgba(73, 124, 81, 0.5);
+    }
+    
+    #logincentralizar {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .btn-centralizar {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .card-header ul li.nav-item {
+        text-align: center;
+        
+    }
+
+
+
+
